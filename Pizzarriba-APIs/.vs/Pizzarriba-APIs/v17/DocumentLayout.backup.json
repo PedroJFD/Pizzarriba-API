@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2022102020041\\Documents\\GitHub\\Pizzarriba-APIs\\Pizzarriba-APIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F806673-B2E1-454B-8C6A-8E22FBB051E9}|Pizzarriba-APIs\\Pizzarriba-APIs.csproj|c:\\users\\2022102020041\\documents\\github\\pizzarriba-apis\\pizzarriba-apis\\pizzarriba-apis\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F806673-B2E1-454B-8C6A-8E22FBB051E9}|Pizzarriba-APIs\\Pizzarriba-APIs.csproj|solutionrelative:pizzarriba-apis\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F806673-B2E1-454B-8C6A-8E22FBB051E9}|Pizzarriba-APIs\\Pizzarriba-APIs.csproj|c:\\users\\2022102020041\\documents\\github\\pizzarriba-apis\\pizzarriba-apis\\pizzarriba-apis\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F806673-B2E1-454B-8C6A-8E22FBB051E9}|Pizzarriba-APIs\\Pizzarriba-APIs.csproj|solutionrelative:pizzarriba-apis\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F806673-B2E1-454B-8C6A-8E22FBB051E9}|Pizzarriba-APIs\\Pizzarriba-APIs.csproj|c:\\users\\2022102020041\\documents\\github\\pizzarriba-apis\\pizzarriba-apis\\pizzarriba-apis\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F806673-B2E1-454B-8C6A-8E22FBB051E9}|Pizzarriba-APIs\\Pizzarriba-APIs.csproj|solutionrelative:pizzarriba-apis\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020041\\Documents\\GitHub\\Pizzarriba-APIs\\Pizzarriba-APIs\\Pizzarriba-APIs\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Pizzarriba-APIs\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\2022102020041\\Documents\\GitHub\\Pizzarriba-APIs\\Pizzarriba-APIs\\Pizzarriba-APIs\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Pizzarriba-APIs\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwDoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:21:18.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020041\\Documents\\GitHub\\Pizzarriba-APIs\\Pizzarriba-APIs\\Pizzarriba-APIs\\Dtos\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "Pizzarriba-APIs\\Dtos\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\2022102020041\\Documents\\GitHub\\Pizzarriba-APIs\\Pizzarriba-APIs\\Pizzarriba-APIs\\Dtos\\ClienteDTO.cs",
+              "RelativeToolTip": "Pizzarriba-APIs\\Dtos\\ClienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:21:12.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020041\\Documents\\GitHub\\Pizzarriba-APIs\\Pizzarriba-APIs\\Pizzarriba-APIs\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Pizzarriba-APIs\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\2022102020041\\Documents\\GitHub\\Pizzarriba-APIs\\Pizzarriba-APIs\\Pizzarriba-APIs\\Models\\Cliente.cs",
+              "RelativeToolTip": "Pizzarriba-APIs\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:20:36.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
